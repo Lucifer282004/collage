@@ -1,0 +1,35 @@
+.logo{
+    height: 40px;
+    margin-left: 20px;
+}
+
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
+.Top_bar{
+    background-color:white;
+}
+
+body div ul{
+    padding-left: 10px;
+    margin-top: 0%;
+}
+
+body div ul li {
+    display: inline;
+    margin-left: 12px;
+}
+.left{
+    padding-left: 368px;
+}
+.second{
+    background-color: rgb(237, 242, 247) ;
+}
+button{
+    margin-top: 0;
+}
+.logo-button{
+    display: flex;
+}
